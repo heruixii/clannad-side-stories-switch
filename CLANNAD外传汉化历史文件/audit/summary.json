@@ -1,0 +1,41 @@
+{
+  "population": 4573,
+  "sample_n": 650,
+  "seed": 202609112310,
+  "confidence": 0.95,
+  "zero_failure_upper_rate": 0.00459821457401266,
+  "resource_backed_sample": 646,
+  "resource_with_english_sample": 644,
+  "exact_normalized_sample": 596,
+  "sample_potential_flags": 24,
+  "sample_manual_no_rid": 4,
+  "sample_split_slots": 10,
+  "population_low_similarity_flags": 100,
+  "population_rid_inversions": 3,
+  "episode_sample_counts": {
+    "1": 32,
+    "2": 35,
+    "3": 44,
+    "4": 41,
+    "5": 28,
+    "6": 47,
+    "7": 47,
+    "8": 57,
+    "9": 25,
+    "10": 36,
+    "11": 43,
+    "12": 46,
+    "13": 31,
+    "14": 54,
+    "15": 48,
+    "16": 36
+  },
+  "kind_counts": {
+    "v32": 628,
+    "v34": 5,
+    "v33_split": 2,
+    "v35_split": 8,
+    "v35_direct": 3,
+    "v35_manual": 4
+  }
+}

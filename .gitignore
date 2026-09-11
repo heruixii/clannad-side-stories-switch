@@ -1,0 +1,37 @@
+﻿# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Python / build cache
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+*.bak
+
+# Sensitive / game-source material
+prod.keys
+title.keys
+*.xci
+*.nsp
+*.nca
+*.tik
+*.cert
+*.keys
+/romfs/
+/exefs/
+PC游戏原版/
+pc汉化版/
+
+# Local working/output trees
+work/
+tools/
+out_zh_v*/
+out_ui_v*/
+deploy_backups/
+GitHub仓库/
+
